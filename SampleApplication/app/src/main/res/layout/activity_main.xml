@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.vraja03.sampleapplication.MainActivity">
+
+    <Button
+        android:id="@+id/buttonSample1"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/info_button_shape"
+        android:text="360"
+        />
+
+
+    <Button
+        android:id="@+id/buttonSample2"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/info_button_shape"
+        android:text="180"
+        />
+
+
+    <Button
+        android:id="@+id/buttonSample3"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/info_button_shape"
+        android:text="90"
+        />
+
+
+    <Button
+        android:id="@+id/buttonSample4"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/info_button_shape"
+        android:text="45"
+        />
+
+
+</LinearLayout>
