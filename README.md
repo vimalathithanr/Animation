@@ -1,8 +1,10 @@
 Animation
 1. Simple splash animation which is created using anim resources.
-2. Transition Animation from one fragment to an another fragment.
-
 ![](https://github.com/vimalathithanr/Animation/blob/master/Screenshot.gif)
 
+2. Transition Animation from one fragment to an another fragment.
 
---Much more to come. :) --
+3. Basic Animation - Fade in, Move up, Zoom In, Rotate
+![](https://github.com/vimalathithanr/Animation/blob/master/AnimationBasics.gif)
+
+--Much more to come :) Stay tuned--
