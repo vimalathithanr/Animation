@@ -1,4 +1,5 @@
 Animation
+
 1. Simple splash animation which is created using anim resources.
 
 ![](https://github.com/vimalathithanr/Animation/blob/master/Screenshot.gif)
